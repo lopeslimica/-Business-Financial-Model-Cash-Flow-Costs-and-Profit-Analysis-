@@ -1,4 +1,4 @@
-# -Business-Financial-Model-Cash-Flow-Costs-and-Profit-Analysis-
+# Business-Financial-Model-Cash-Flow-Costs-and-Profit-Analysis-
 
 **Summary of company**
 Hawkens Gingerbread, a UK-based company known for its premium products, seeks to establish a sustainable and profitable model for ginger cultivation in Lincolnshire. By leveraging innovative farming techniques, the company aims to address the challenges of import dependency and carbon emissions while promoting local economic growth. The consultancy team is tasked with delivering a comprehensive feasibility study, enabling Hawkens Gingerbread to make informed decisions about entering the local ginger production market. The ultimate goal is to ensure competitiveness, enhance product quality, and align with sustainability goals.
@@ -27,3 +27,7 @@ This project evaluates the financial, environmental, and technical feasibility o
 4) Implementing sustainable practices in agriculture.
 5) Identifying risks in agricultural ventures and developing mitigation strategies.
 6) Evaluating the economic and environmental impacts of farming innovations.
+
+Path to follow Word document ----> Excel sheet ------> Presentation
+
+Disclaimer This is academic report for educational purpose only and do not give any sort of recommendation .
